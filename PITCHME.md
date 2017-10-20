@@ -15,8 +15,8 @@
 * 何をやったのか
 * TIM と受賞の関係
 * まとめ
-<br />
-ちょいちょい質問タイムをはさみます
+
+<small>ちょいちょい質問タイムをはさみます</small>
 
 ---
 
@@ -25,6 +25,11 @@
 * 小宮 健
 * SI部所属
 * 2005年入社 (たしか)
+
+---
+
+## 自己紹介
+
 * 2年半ぐらい常駐してます
     * いまは恵比寿で某案件を手伝ってます
 * 最近はコードを書いていません (仕事では)
@@ -102,7 +107,7 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## Open Source Peer Bonus Program; Q&A
 
-* 他、質問があればここで答えます
+* 他、質問があれば答えます
 
 ---
 
@@ -169,6 +174,7 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 ## Sphinxの利用事例
 
 * 弊社の案件でもいくつか使われています
+* 使ったことある人?
 
 ---
 
@@ -237,13 +243,17 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 * Q. なんでメンテナやってるの?
 * A. 自分では使っていないし、あんまり前向きな理由はないかも。
     * 自分がやめると開発が止まるという責任感めいたものはある
-    * コードを書くのは好きなので、まあ盆栽ワークの代わりとして
+    * プログラミングが好きなので、盆栽ワークとして
 
 ---
 
 ## Sphinx; Q&A
 
-* 他、質問があればここで答えます
+* 他、質問があれば答えます
+
+---
+
+# OSS メンテナの一日
 
 ---
 
@@ -297,11 +307,28 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ---
 
+## OSS メンテナの一日
+
+![イシューの増加傾向](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/increase-of-sphinx-issues.png?raw=true)
+
+---
+
 ## 中間まとめ
 
 * Sphinxのメンテナとしてそれなりに頑張って活動してます
 * それなりに使われているみたいです
 * Googleからお疲れ様、と褒められました
+
+---
+
+# TIM と受賞の関係
+
+---
+
+## TIM からの支援
+
+* 関係ありません！僕の努力の結果です！
+* …ではなくて、支援してもらっています。 |
 
 ---
 
