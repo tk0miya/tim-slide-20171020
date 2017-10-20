@@ -73,7 +73,7 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 ## Open Source Peer Bonus Program; FAQ
 
 * Q. 何かもらえたの?
-* A. a special thank you gift がもらえるらしい (まだもらっていない)
+* A. "a special thank you gift" がもらえるらしい (まだもらっていない)
 
 ---
 
@@ -99,8 +99,8 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## 何を褒められたのか
 
-* Sphinx
-* ![Image](TODO)
+Sphinx <br />
+![sphinx-doc.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/sphinx-doc.org.png?raw=true)
 
 ---
 
@@ -108,9 +108,13 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 * ドキュメント変換ツール
 * マークアップされたテキストを HTML, PDF, EPUB などに変換する
-    * 基本的には reStrucutredText を使う
+
+![執筆フロー](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/sphinx-flow.png?raw=true)
+
+## Sphinx
+
+* 執筆には reStrucutredText を使う
     * 一応 markdown にも対応している (が中途半端)
-    * ![Image](TODO)
 * 元々は Python のドキュメント用に作られた
 * 現在は言語を問わず、いろんな所で使われている
 
@@ -118,8 +122,8 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## Sphinxの利用事例
 
-* [Python documentation](https://docs.python.org/3/)
-* ![Image](TODO)
+[Python documentation](https://docs.python.org/3/)
+![Image](TODO)
 
 ---
 
