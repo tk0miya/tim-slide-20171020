@@ -122,22 +122,22 @@ Sphinx <br />
 
 ## Sphinxの利用事例
 
-[Python documentation](https://docs.python.org/3/)
-![Image](TODO)
+[Python documentation](https://docs.python.org/3/) <br />
+![docs.python.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/python.org.png?raw=true)
 
 ---
 
 ## Sphinxの利用事例
 
-* [Linux Kernel](https://www.kernel.org/doc/html/latest/)
-* ![Image](TODO)
+[Linux Kernel](https://www.kernel.org/doc/html/latest/) <br />
+![www.kernel.org/doc](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/kernel.org.png?raw=true)
 
 ---
 
 ## Sphinxの利用事例
 
-* [AWS CLI](http://docs.aws.amazon.com/cli/latest/index.html)
-* ![Image](TODO)
+[AWS CLI](http://docs.aws.amazon.com/cli/latest/index.html) <br />
+![AWS CLI](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/awscli.png?raw=true)
 
 ---
 
@@ -153,8 +153,8 @@ Sphinx <br />
 
 ## Sphinxの利用事例
 
-* こういうスタイルのドキュメントはだいたい Sphinx製
-* ![Image http://docs.readthedocs.io/en/latest/](TODO)
+こういうスタイルのドキュメントはだいたい Sphinx製 <br />
+![readthedocs.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/readthedocs.org.png?raw=true)
 
 ---
 
