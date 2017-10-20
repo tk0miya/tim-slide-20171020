@@ -517,6 +517,10 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ---
 
+# Any questions?
+
+---
+
 ## メモ
 
 * [スライド(Git Pitch)](https://gitpitch.com/tk0miya/tim-slide-20171020/master?grs=github&t=black)
