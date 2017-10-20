@@ -327,9 +327,14 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## TIM からの支援
 
-- 関係ありません！僕の努力の結果です！
-- …ではなくて |
-- 実は支援してもらっています。 |
+* 関係ありません！僕の努力の結果です！
+
+---
+
+## TIM からの支援
+
+* 関係ありません！僕の努力の結果です！
+* …ではなくて、支援してもらっています。
 
 ---
 
@@ -399,31 +404,36 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ---
 
-## TIM はみなさんの自己学習を支援します
+## TIM はみんなの勉強を支援します
 
 * 機材
 * 勉強会/カンファレンス等の参加機会/費用
     * 交通費や宿泊費も支援するよ
     * 昼間のカンファレンスは業務扱いにするよ
-    * 平日夜の勉強会に参加するためのはや抜けも ok
+    * 平日の勉強会に参加するための早抜けも ok
 * 他、なにか支援が必要そうなもの
 
 ---
 
-## TIM はみなさんの自己学習を支援します
+## TIM はみんなの勉強を支援します
 
 * フィードバックは必須ではない
     * レポートとか書くのは大変だし、思ったほど読まれない
     * 参加したけど面白くないこともあるし…
-* でも、面白いことを共有してほしい
-    * *できるだけ* でよい
+
+---
+
+## TIM はみんなの勉強を支援します
+
+* でも、面白いことはみんなで共有したい
+    * **できるだけ** でよい
     * 形式は問わない
     * 雑談、slack などなど
     * 業務に活かせそうなものは取り込めると、みんなハッピーに
 
 ---
 
-## TIM はみなさんの自己学習を支援します
+## TIM はみんなの勉強を支援します
 
 * 業務に直接関係ないものでも構いません
 * IT っぽいものならなんでも ok
@@ -432,7 +442,7 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ---
 
-## TIM はみなさんの自己学習を支援します
+## TIM はみんなの勉強を支援します
 
 * Q. なんで支援してるの?
 * A. 人財w への投資です。
@@ -441,21 +451,51 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ---
 
-## TIM はみなさんの自己学習を支援します
+## TIM はみんなの勉強を支援します
 
-* 社長と経理には、予算増額に ok をもらいました
+* 社長には、予算増額に ok をもらいました
     * まだ予算的には余裕がある? みたい
     * 利用が多くなってから、(必要があれば) ルールを考えます
 * 迷ったら小宮・武藤に相談してください。背中を押します
 
 ---
 
-## 最近読んだ本の紹介
+## 最近(?)読んだ本の紹介
 
 * すっごいスローペースで技術書を読んでます
-* 面白かった本を紹介します
+* Book-a-thon
+    * 月2回の読書会。都内のルノアールでもくもく読書
+
+![Book-a-thon](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/bookathon.png?raw=true)
+
+---
+
+## 最近(?)読んだ本の紹介
+
 * Real World HTTP
-* ハイパフォーマンスネットワーキング
+    * HTTP 0.9 から 2.0 までを紹介しつつ、HTTP とその関連技術を説明
+
+![Real World HTTP](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/real_world_http.jpg?raw=true)
+
+---
+
+## 最近(?)読んだ本の紹介
+
+* ハイパフォーマンス ブラウザネットワーキング
+    * ブラウザとサーバ間の通信をいろんなレイヤから高速化する本
+    * コードだけでできない実装のチューニングに役立つ
+
+![ハイパフォーマンスブラウザネットワーキング](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/high_peformance_browser_networking.jpg?raw=true)
+
+---
+
+## 最近(?)読んだ本の紹介
+
+* Re:VIEW+InDesign制作技法
+    * マークアップされた原稿から紙面を制作するときの自動化テクニック
+    * 泥臭いところが紹介されていて面白い
+
+![Re:VIEW+InDesign制作技法](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/review_indesign_techs.jpg?raw=true)
 
 ---
 
@@ -463,16 +503,17 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 * 最後にひとつだけ宣伝
 * 明後日(10/20)に書籍が出ます
-* Sphinx をはじめよう 第2版
+
+![Sphinxを始めよう 第2版](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/starting_sphinx.jpg?raw=true)
 
 ---
 
 ## まとめ
 
 * Google に褒められました
-* Sphinxプロジェクトでやったこと
-* TIMからの支援
-* 煽り
+* Sphinxプロジェクトでやっていること
+* TIMが支援してくれたこと
+* 会社の脛をかじっていこう話
 
 ---
 
