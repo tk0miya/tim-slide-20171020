@@ -2,7 +2,7 @@
 
 ---
 
-あとで資料は共有します。
+あとで資料は共有します。 <br />
 (github においてあります)
 
 ---
@@ -11,9 +11,11 @@
 
 * 自己紹介
 * Google から褒められた話
-* Sphinxプロジェクトで何をやっていたのか
-* TIMからの支援
+* 何をやったのか
+* TIM と受賞の関係
 * まとめ
+<br />
+ちょいちょい質問タイムをはさみます
 
 ---
 
@@ -22,7 +24,7 @@
 * 小宮 健
 * SI部所属
 * 2005年入社 (たしか)
-* 2年版ぐらい常駐してます
+* 2年半ぐらい常駐してます
     * いまは恵比寿で某案件を手伝ってます
 * 最近はコードを書いていません (仕事では)
     * 老害化してたらそっと教えてください
@@ -85,7 +87,7 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 ## Open Source Peer Bonus Program; FAQ
 
 * Q. 日本人初だって?
-* A. 違います。日本人っぽい名前だと 4人目みたい。国籍は知りません。
+* A. 違います。日本人っぽい名前だと 4人目みたい
 
 ---
 
@@ -127,21 +129,21 @@ Sphinx <br />
 
 ## Sphinxの利用事例
 
-[Python documentation](https://docs.python.org/3/) <br />
+<!-- [Python documentation](https://docs.python.org/3/) -->
 ![docs.python.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/python.org.png?raw=true)
 
 ---
 
 ## Sphinxの利用事例
 
-[Linux Kernel](https://www.kernel.org/doc/html/latest/) <br />
+<!-- [Linux Kernel](https://www.kernel.org/doc/html/latest/) -->
 ![www.kernel.org/doc](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/kernel.org.png?raw=true)
 
 ---
 
 ## Sphinxの利用事例
 
-[AWS CLI](http://docs.aws.amazon.com/cli/latest/index.html) <br />
+<!-- [AWS CLI](http://docs.aws.amazon.com/cli/latest/index.html) -->
 ![AWS CLI](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/awscli.png?raw=true)
 
 ---
@@ -158,7 +160,7 @@ Sphinx <br />
 
 ## Sphinxの利用事例
 
-こういうスタイルのドキュメントはだいたい Sphinx製 <br />
+こういうのドキュメントはだいたい Sphinx製 <br />
 ![readthedocs.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/readthedocs.org.png?raw=true)
 
 ---
@@ -169,7 +171,7 @@ Sphinx <br />
 
 ---
 
-## Sphinxプロジェクトで何をやっているのか
+## Sphinxで何をやっているのか
 
 * Sphinx のメンテナのひとり
     * アクティブなのは数人
@@ -177,27 +179,28 @@ Sphinx <br />
 
 ---
 
-## Sphinxプロジェクトで何をやっているのか
-* やっていること
-    * イシューの仕分け、回答
-    * バグの修正
-    * 新規機能の開発
-    * PR のレビュー
-    * リリース作業
+## Sphinxで何をやっているのか
+
+* イシューの仕分け、回答
+* バグの修正
+* 新規機能の開発
+* PR のレビュー
+* リリース作業
 
 ---
 
-## Sphinxプロジェクトで何をやっているのか
+## Sphinxで何をやっているのか
 
 * まあ大体全部です
-* べつに偉くはない (上下関係とか役職はない)
+* べつに偉くはないです <br />
+  (上下関係とか役職はない)
 
 ---
 
-## Sphinxプロジェクトで何をやっているのか
+## Sphinxで何をやっているのか
 
 [コミットの約60%](https://github.com/sphinx-doc/sphinx/graphs/contributors?from=2015-10-01&to=2017-10-01&type=c)は小宮によるもの (直近2年間) <br />
-![コミットグラフ](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/commit_graph.png?raw=true)
+![コミットグラフ](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/commit_graph.png?raw=true) <br />
 <small>(もちろん、全部ひとりでやったわけではないです)</small>
 
 ---
