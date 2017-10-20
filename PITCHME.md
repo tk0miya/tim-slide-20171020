@@ -327,9 +327,9 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## TIM からの支援
 
-* 関係ありません！僕の努力の結果です！
-* …ではなくて |
-* 実は支援してもらっています。 |
+- 関係ありません！僕の努力の結果です！
+- …ではなくて |
+- 実は支援してもらっています。 |
 
 ---
 
