@@ -510,7 +510,7 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## まとめの前の宣伝 (おまけ)
 
-![おまけ](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/omake.jpg?raw=true)
+![おまけ](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/omake.png?raw=true)
 
 ---
 
