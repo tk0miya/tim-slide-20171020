@@ -1,9 +1,10 @@
-# Google から褒められた話
+# Google から<br />褒められた話
 
 ---
 
 あとで資料は共有します。 <br />
-(github においてあります)
+(github においてあります) <br />
+技術の話より自慢話成分が多めです <br />
 
 ---
 
@@ -80,7 +81,8 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 ## Open Source Peer Bonus Program; FAQ
 
 * Q. 何かもらえたの?
-* A. "a special thank you gift" がもらえるらしい (まだもらっていない)
+* A. "a special thank you gift" がもらえるらしい <br />
+  (まだもらっていない)
 
 ---
 
@@ -106,7 +108,6 @@ https://opensource.googleblog.com/2017/10/more-open-source-peer-bonus-winners.ht
 
 ## 何を褒められたのか
 
-Sphinx <br />
 ![sphinx-doc.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/sphinx-doc.org.png?raw=true)
 
 ---
@@ -160,7 +161,7 @@ Sphinx <br />
 
 ## Sphinxの利用事例
 
-こういうのドキュメントはだいたい Sphinx製 <br />
+こういう見た目のページはだいたい Sphinx製 <br />
 ![readthedocs.org](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/readthedocs.org.png?raw=true)
 
 ---
@@ -200,8 +201,7 @@ Sphinx <br />
 ## Sphinxで何をやっているのか
 
 [コミットの約60%](https://github.com/sphinx-doc/sphinx/graphs/contributors?from=2015-10-01&to=2017-10-01&type=c)は小宮によるもの (直近2年間) <br />
-![コミットグラフ](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/commit_graph.png?raw=true) <br />
-<small>(もちろん、全部ひとりでやったわけではないです)</small>
+![コミットグラフ](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/commit_graph.png?raw=true)
 
 ---
 
@@ -267,8 +267,8 @@ Sphinx <br />
 ## OSS メンテナの一日
 
 * 仕事中
-    * (仕事に余裕があれば) バグを修正する
-    * 注) いまは SES の時間契約なのでやってない
+    * (仕事に余裕があれば) バグを修正する <br />
+      <small>注) いまは時間で契約しているのでやってない</small>
 
 ---
 
@@ -292,7 +292,8 @@ Sphinx <br />
 * まとめ
     * だいたいメールを読むか、コードを書いてる
     * なぜならSphinxには600件を越すイシューが蓄積されているから！
-    * ![Image](TODO)
+
+![Sphinx has too much issues!](https://github.com/tk0miya/tim-slide-20171020/blob/master/images/sphinx_has_too_much_issues.png?raw=true)
 
 ---
 
@@ -331,6 +332,7 @@ Sphinx <br />
     * Sphinx ハンズオン
     * アジャイルサムライ新宿道場
     * 継続的デリバリー読書会 (数回で挫折)
+* 他にもやってる人いますね (読書会とか)
 
 ---
 
@@ -355,8 +357,13 @@ Sphinx <br />
 
 ## TIM からの支援
 
-* 小宮が特別に支援を受けているわけではない
-    * TIM の支援は社員は誰でも受けられる
+* 小宮だけが特別に支援を受けているわけではない
+    * TIM の支援は社員であれば誰でも受けられる
+
+---
+
+## TIM からの支援
+
 * 今年度の実績 (途中経過)
     * 書籍 116冊
     * 勉強会支援 35回
@@ -367,14 +374,24 @@ Sphinx <br />
 ## TIM はみなさんの自己学習を支援します
 
 * 機材
-* 勉強会/カンファレンス/セミナーの参加機会/費用
+* 勉強会/カンファレンス等の参加機会/費用
     * 交通費や宿泊費も支援するよ
     * 昼間のカンファレンスは業務扱いにするよ
     * 平日夜の勉強会に参加するためのはや抜けも ok
-    * 参加レポートはいらないよ
-        * 書くのは大変だし、思ったほど読まれない
-        * 業務に活かせそうなものは、 *できれば* 共有してもらえると嬉しい
 * 他、なにか支援が必要そうなもの
+
+---
+
+## TIM はみなさんの自己学習を支援します
+
+* フィードバックは必須ではない
+    * レポートとか書くのは大変だし、思ったほど読まれない
+    * 参加したけど面白くないこともあるし…
+* でも、面白いことを共有してほしい
+    * *できるだけ* でよい
+    * 形式は問わない
+    * 雑談、slack などなど
+    * 業務に活かせそうなものは取り込めると、みんなハッピーに
 
 ---
 
@@ -391,7 +408,7 @@ Sphinx <br />
 
 * Q. なんで支援してるの?
 * A. 人財w への投資です。
-* A. 将来の技術への投資 (AI, IoT, クラウド, 言語, フレームワーク, etc.)
+* A. 将来の技術への投資 <br />(AI, IoT, クラウド, 言語, フレームワーク, etc.)
 * A. 仕事につながることもあります
 
 ---
@@ -429,7 +446,7 @@ Sphinx <br />
 * TIMからの支援
 * 煽り
 
--- 
+---
 
 ## メモ
 
